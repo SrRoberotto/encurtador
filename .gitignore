@@ -5,11 +5,7 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
-
-# production
-/build
+/src/config/online.ts
 
 # misc
 .DS_Store
